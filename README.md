@@ -1,7 +1,7 @@
 # ***Clapper-Python***
 
 ## 项目介绍
-[ **原始版本(C++)** ](https://gitee.com/holycandle/clapper)
+[ **原始版本(C++)** ](https://gitee.com/holycandle/clapper)  
 [ **Github** 上的 ***Clapper-Pyhton*** ](https://github.com/2624498362/Clapper-Pyhton)
 
 
